@@ -1,0 +1,11 @@
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.exe
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.deps.json
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.runtimeconfig.json
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.runtimeconfig.dev.json
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.dll
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\bin\Debug\netcoreapp3.1\Polinom.pdb
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\obj\Debug\netcoreapp3.1\Polinom.csprojAssemblyReference.cache
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\obj\Debug\netcoreapp3.1\Polinom.AssemblyInfoInputs.cache
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\obj\Debug\netcoreapp3.1\Polinom.AssemblyInfo.cs
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\obj\Debug\netcoreapp3.1\Polinom.dll
+C:\Users\Islamov-AI\source\repos\Polinom\Polinom\obj\Debug\netcoreapp3.1\Polinom.pdb
